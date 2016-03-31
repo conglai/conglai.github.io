@@ -1,7 +1,7 @@
 ---
 layout:     	post
-title:      	"前端测试"
-date:       	2016-03-31 16:00:00
+title:      	"about test"
+date:       	2016-03-30 16:00:00
 author:     	"宇山"
 header-img: 	"img/post/bg-alibaba-bus-stop.jpg"
 header-mask: 	0.3
@@ -11,7 +11,7 @@ tags:
     - js
 ---
 
-# 单元测试
+# 关于测试
 
 > 就目前自己的使用来讲，总希望能更快地验证自己的代码。
 
