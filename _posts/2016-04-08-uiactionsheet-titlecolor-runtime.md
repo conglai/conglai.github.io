@@ -3,18 +3,17 @@ layout:     	post
 title:      	"通过运行时自定义UIActionSheet的字体颜色"
 subtitle:   	"Objective-C Runtime Black Magic I"
 date:       	2016-04-07 19:00:00
-author:     	"LoraBiT"
+author:     	"无北"
 header-img: 	"img/post/bg-iphone6s-apple.jpg"
 header-mask: 	0.6
 catalog: 		  true
 tags:
     - iOS
-    - WithMe技术开放
 ---
 
 > 如果你只是来复制代码的，请直接跳到最后一节。
 >
-> <font style="float:right;">- LoraBiT</font>
+> <font style="float:right;">- 无北</font>
 
 # 「5分钟」的需求
 前不久，产品经理发来一个视觉搞，说要做一个左图所示的菜单，我一看，并没有多想，这不就是5分钟搞定的需求吗。
