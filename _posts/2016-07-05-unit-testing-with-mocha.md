@@ -1,16 +1,15 @@
 ---
 layout:     	post
-title:      	"利用Gulp和Mocha构建一个简单的测试环境"
-subtitle:   	"build a unit testing environment with gulp and mocha"
-date:       	2016-07-05 22:00:00
+title:      	"前端测试"
+subtitle:   	"Mocha"
+date:       	2016-07-03 19:00:00
 author:     	"雷猫"
 header-img: 	"img/post/bg-iphone6s-apple.jpg"
 header-mask: 	0.6
-catalog: 		true
+catalog: 		  true
 tags:
- 	- f2e
-    - bdd
-    
+    - mocha
+    - f2e
 ---
 
 # 利用Gulp和Mocha构建一个简单的测试环境
