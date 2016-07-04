@@ -4,10 +4,12 @@ title:      	"利用Gulp和Mocha构建一个简单的测试环境"
 subtitle:   	"build a unit testing environment with gulp and mocha"
 date:       	2016-07-05 22:00:00
 author:     	"雷猫"
+header-img: 	"img/post/bg-iphone6s-apple.jpg"
+header-mask: 	0.6
 catalog: 		true
 tags:
- 	- front end
-    - unit testing
+ 	- f2e
+    - bdd
     
 ---
 
