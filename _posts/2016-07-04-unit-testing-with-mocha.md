@@ -9,7 +9,6 @@ header-mask: 0.6
 catalog: 	true
 tags:
  	- f2e
-    - bdd   
 ---
 
 # 利用Gulp和Mocha构建一个简单的测试环境
