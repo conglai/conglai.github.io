@@ -9,6 +9,8 @@ header-mask: 	0.6
 catalog: 		  true
 tags:
     - f2e
+    - bdd
+    - mocha
 ---
 
 
